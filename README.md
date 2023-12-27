@@ -1,2 +1,2 @@
 # maps
-Official ddnet++ maps
+Official ddnet++ maps and other
